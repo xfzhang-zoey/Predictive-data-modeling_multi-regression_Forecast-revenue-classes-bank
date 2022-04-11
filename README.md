@@ -12,3 +12,6 @@ As a data analyst for a bank at international scale, forecast its targeting futu
 - Data modelling: ANOVA, multi-linear regression
 - Optimisation of models 
 - Data visualisation 
+
+-----
+Project description in detail: https://openclassrooms.com/fr/paths/65/projects/148/assignment
