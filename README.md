@@ -6,11 +6,12 @@ As a data analyst for a bank at international scale, forecast its targeting futu
    - Gini index for the country
 
 **Skills:** 
-- Descriptive statistics
+- Exploratory statistics 
+- Statistical inference 
 - Probability theory  
 - Generation of datasets based on given functions
-- Data modelling: ANOVA, multi-linear regression
-- Optimisation of models 
+- Data modelling via: ANOVA, multi-linear regression
+- Optimisation of data models 
 - Data visualisation 
 
 -----
