@@ -10,8 +10,8 @@ As a data analyst for a bank at international scale, forecast its targeting futu
 - Inference statistic analysis
 - Probability theory  
 - Data generation 
-- Data modelling via: ANOVA, multi-linear regression
-- Evaluation and ptimisation of model performance 
+- **Predictive data modeling** via multi-linear regression
+- **Evaluation of model performance** and optimisation of model 
 - Data visualisation 
 
 -----
