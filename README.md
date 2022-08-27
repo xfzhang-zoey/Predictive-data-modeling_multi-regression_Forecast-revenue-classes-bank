@@ -1,4 +1,4 @@
-# DataAnalyst_P7_forecast-revenue-classes
+## Forecast revenue classes of potential future clients based on present clients on global level 
 
 As a data analyst for a bank at international scale, forecast its targeting future customers based on the actual customer data:
    - revenue of actual customers (parents of future customers)
